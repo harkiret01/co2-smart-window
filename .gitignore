@@ -1,0 +1,11 @@
+# Credentials - never commit
+firmware/co2_monitor/secrets.h
+
+# PlatformIO / build output
+.pio/
+.vscode/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
